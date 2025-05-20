@@ -26,3 +26,13 @@ Portfolio professionnel basé sur WordPress mettant en valeur des compétences e
 - Serveur web Apache/Nginx | Apache/Nginx web server
 
 ## Structure des Fichiers | File Structure
+
+- **portfolio_2/**
+  - **wp-admin/** - Interface d'administration WordPress | WordPress admin interface
+  - **wp-content/**
+    - **themes/** - Thème personnalisé du portfolio | Custom portfolio theme
+    - **plugins/** - Plugins installés (Elementor, Dialogflow, etc.) | Installed plugins
+  - **wp-includes/** - Fichiers système WordPress | WordPress core files
+  - **index.php** - Point d'entrée du site | Site entry point
+  - **wp-config.php** - Configuration de la base de données | Database configuration
+  - **.htaccess** - Configuration serveur Apache | Apache server configuration
