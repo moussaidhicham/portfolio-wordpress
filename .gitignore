@@ -1,0 +1,10 @@
+/wp-admin/
+/wp-includes/
+*.log
+*.sql
+*.zip
+*.tar.gz
+*.env
+*.htaccess
+license.txt
+readme.html
